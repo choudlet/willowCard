@@ -1,0 +1,52 @@
+
+.background-container {
+    background-color: #947CB0;
+    color:#D2D7D3;
+}
+
+.birthday-container {
+    display:flex;
+    justify-content: space-around;
+}
+
+.letter {
+    font-family: 'Fredoka One', cursive;
+    font-size: 40px;
+}
+
+.sentence-container {
+    display:flex;
+    justify-content:center;
+}
+
+.sentence {
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+}
+
+.willow-image {
+    height: 400px;
+}
+
+.image-container {
+    display:flex;
+    justify-content: center;
+}
+
+.candles-container {
+    display:flex;
+    justify-content:center;
+}
+
+.candles {
+    height:300px;
+    width:300px;
+}
+
+.out {
+    display:none;
+}
+
+.small {
+    font-size:15px;
+}
